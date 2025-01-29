@@ -1,3 +1,4 @@
+![logo](https://github.com/Surjendu-Pal/Surjendu-Pal/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Surjendu Pal</h1>
 <h3 align="center">A dedicated and innovative software engineer, driven to shape India's digital future.</h3>
 <img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrajNhOHhrM2tpZDNsenlqempocmV5OW44Z2FhZ2N3cTkxazAxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
