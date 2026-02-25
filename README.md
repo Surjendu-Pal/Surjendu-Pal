@@ -1,23 +1,121 @@
-![logo](https://github.com/Surjendu-Pal/Surjendu-Pal/blob/main/github.jpg)
-<h1 align="center">Hi 👋, I'm Surjendu Pal</h1>
-<h3 align="center">A dedicated and innovative software engineer, driven to shape India's digital future.</h3>
-<img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRrajNhOHhrM2tpZDNsenlqempocmV5OW44Z2FhZ2N3cTkxazAxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surjendu-pal&label=Profile%20views&color=0e75b6&style=flat" alt="surjendu-pal" /> </p>
-
-- 📫 How to reach me **bksurjendu356@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/surjendu-pal-53b1a3318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surjendu-pal-53b1a3318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1gfq12oshf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1gfq12oshf/" height="30" width="40" /></a>
-<a href="https://instagram.com/sanapal891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanapal891" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Surjendu%20Pal&fontSize=45&fontColor=00ffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Android%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Welcome+to+My+Digital+Universe;AI+Enthusiast;Android+Developer;Future+Tech+Builder;Open+Source+Contributor" />
+</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surjendu-pal&show_icons=true&locale=en&layout=compact" alt="surjendu-pal" /></p>
+<!-- ==================== ABOUT ==================== -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surjendu-pal&show_icons=true&locale=en" alt="surjendu-pal" /></p>
+<img align="right" alt="AI coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3h4Y3ZweGZ0aDQxZWljZ2k3czh1Mnk1YzJ2d3ljd2V0bnFzNHUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surjendu-pal&" alt="surjendu-pal" /></p>
+## 👨‍💻 About Me
+
+- 🚀 Passionate Software Engineer from India  
+- 🧠 Exploring AI & Machine Learning  
+- 📱 Android & Flutter Developer  
+- 🌐 Full Stack Learner  
+- 💡 Building impactful digital solutions  
+
+📫 Reach me at: **bksurjendu356@gmail.com**
+
+---
+
+<!-- ==================== SOCIAL ==================== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/surjendu-pal-53b1a3318/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="https://instagram.com/sanapal891">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://www.facebook.com/share/1gfq12oshf/">
+<img src="https://skillicons.dev/icons?i=facebook" height="45" />
+</a>
+</p>
+
+---
+
+<!-- ==================== SKILLS ==================== -->
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=android,flutter,java,python,js,html,css,c,cpp,linux,figma,blender&theme=dark" />
+</p>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surjendu-pal&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surjendu-pal&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+
+⚠ IMPORTANT:  
+After pasting this, you must enable GitHub Action to generate snake.  
+Tell me if you want setup steps.
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+# 🚀 Featured Projects
+
+### 📱 Android AI Chat App
+> AI powered chatbot built using Flutter & Firebase  
+🔗 https://github.com/surjendu-pal/project-link  
+
+### 🌐 Personal Portfolio Website
+> Responsive modern portfolio using HTML, CSS & JS  
+🔗 https://github.com/surjendu-pal/project-link  
+
+### 🤖 Machine Learning Predictor
+> Python ML model with real-world dataset  
+🔗 https://github.com/surjendu-pal/project-link  
+
+(Replace links with your real repositories)
+
+---
+
+<!-- ==================== PORTFOLIO SECTION ==================== -->
+
+# 💼 Portfolio
+
+🌍 Live Website:  
+🔗 https://your-portfolio-link.com  
+
+📂 All Projects:  
+🔗 https://github.com/surjendu-pal?tab=repositories  
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
