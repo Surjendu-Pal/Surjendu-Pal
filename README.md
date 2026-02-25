@@ -113,9 +113,11 @@ Tell me if you want setup steps.
 🔗 https://github.com/surjendu-pal?tab=repositories  
 
 ---
+<img src="https://raw.githubusercontent.com/Abbhiishek/Abbhiishek/output/snake.svg" alt="Snake animation" />
 
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
+
