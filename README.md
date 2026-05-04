@@ -53,7 +53,7 @@ Flutter • Node.js • MongoDB
 Digital billing platform for real-world business operations.
 
 **Tech Used:**  
-PHP • MySQL • JavaScript
+PHP • MySQL • JavaScript • postgresql
 
 ---
 
@@ -67,9 +67,9 @@ PHP • MySQL • JavaScript
 
 ## 🌍 Connect With Me
 
-- LinkedIn: your-linkedin
-- Portfolio: your-website
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/surjendu-pal-53b1a3318?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Portfolio: surjenduzone.com
+- Email: surjendupal2024@gmail.com
 
 ---
 
