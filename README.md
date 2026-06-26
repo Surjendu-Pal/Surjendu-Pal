@@ -1,76 +1,108 @@
 <h1 align="center">Surjendu Pal</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI & Security Enthusiast</h3>
 
 <p align="center">
-  Building secure, scalable, and real-world digital products.
+  Information Technology student | Full-stack developer | Flutter, AI, and security-focused builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/Surjendu-Pal">GitHub</a> |
+  <a href="https://surjendu-github-io.vercel.app">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/surjendu-pal-53b1a3318">LinkedIn</a> |
+  <a href="mailto:surjendupal2024@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am an Information Technology student from India with a strong passion for software engineering, cybersecurity, artificial intelligence, and scalable system design.
+I am an Information Technology student at Asansol Engineering College, India, focused on building practical software projects that solve real problems. My current interests include full-stack development, Flutter mobile apps, backend APIs, AI-assisted systems, cybersecurity fundamentals, and clean developer documentation.
 
-Currently focused on:
+I am open to internships, hackathons, freelance projects, and collaboration opportunities where I can contribute, learn fast, and ship reliable software.
 
-- Full Stack Development
-- Mobile App Development with Flutter
-- Data Structures & Algorithms
-- Backend API Development
-- Security-focused Software Systems
+## What I Build
 
----
+- Full-stack web applications with clean user workflows
+- Mobile apps and WebView wrappers using Flutter
+- Backend APIs with Python, PHP/Laravel, and REST patterns
+- AI and data-driven prototypes for real-world use cases
+- Hardware/software experiments with Arduino and IoT concepts
+- Developer-focused documentation, setup guides, and project roadmaps
 
-## 🛠 Tech Stack
+## Skills
 
-**Languages**  
-C • C++ • Java • PHP • JavaScript • Dart • Python
+**Languages:** C, C++, Java, PHP, JavaScript, TypeScript, Dart, Python
 
-**Frameworks & Tools**  
-Flutter • Firebase • MySQL • Linux • Git • GitHub • Figma
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS
 
----
+**Backend:** Flask, FastAPI, Laravel, REST APIs, authentication workflows
 
-## 🚀 Featured Projects
+**Mobile:** Flutter, Android app packaging, WebView apps, PWA concepts
 
-### TrustPay Security Layer
-AI + Human verification based payment security architecture.
+**Data and AI:** Pandas, NumPy, scikit-learn, anomaly detection, synthetic datasets
 
-**Tech Used:**  
-API Security • Authentication • Backend Architecture
+**Databases and Tools:** MySQL, SQLite, Git, GitHub, VS Code, Figma, Linux basics
 
----
+## Current Focus
 
-### LMS Platform
-Modern learning management platform with scalable dashboard UI.
+- Improving my public GitHub portfolio with production-quality README files
+- Building practical full-stack and mobile projects for internship readiness
+- Learning stronger backend architecture, testing, and security practices
+- Contributing ethically to open-source projects through useful issues and pull requests
 
-**Tech Used:**  
-Flutter • Node.js • MongoDB
+## Featured Projects
 
----
+### [MorseBand](https://github.com/Surjendu-Pal/MorseBand)
 
-### Smart Billing System
-Digital billing platform for real-world business operations.
+An Arduino-based Morse code input device that decodes dot/dash button presses into live text on an LCD and sends decoded characters through an HC-05 Bluetooth module.
 
-**Tech Used:**  
-PHP • MySQL • JavaScript • postgresql
+**Tech:** Arduino, C++, I2C LCD, HC-05 Bluetooth, embedded input handling
 
----
+### [EdgePulse BatteryGuard AI](https://github.com/Surjendu-Pal/EdgePulse-BatteryGuard-AI)
 
-## 📊 GitHub Stats
+An edge AI prototype for EV battery-cell anomaly detection using synthetic BMS-style data, IsolationForest, and a FastAPI prediction service.
+
+**Tech:** Python, FastAPI, scikit-learn, Pandas, NumPy, Joblib
+
+### [Book Billing System Web App](https://github.com/Surjendu-Pal/Book-billing-system-webapp)
+
+A Flask and React application that uploads Excel book-purchase data, calculates discounts, and generates formatted multi-copy Excel bills.
+
+**Tech:** Flask, React, Bootstrap, openpyxl, Axios
+
+### [City Book App](https://github.com/Surjendu-Pal/City_Book_app)
+
+A Flutter mobile wrapper for the City Books Shopify store with WebView browsing, pull-to-refresh, offline handling, and Android build support.
+
+**Tech:** Flutter, Dart, InAppWebView, Connectivity Plus
+
+### [Surjendu Zone](https://github.com/Surjendu-Pal/surjendu.github.io)
+
+A personal portfolio website built with Next.js, TypeScript, Tailwind CSS, MDX blog content, and Vercel deployment support.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, MDX
+
+### [Vote System](https://github.com/Surjendu-Pal/vote-system-)
+
+A Laravel voting management platform with admin workflows, voter authentication, election management, vote casting, results, exports, and feature tests.
+
+**Tech:** Laravel, PHP, Blade, MySQL/SQLite, Vite, PHPUnit
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surjendu-Pal&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Surjendu-Pal&show_icons=true&theme=default" alt="Surjendu Pal GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surjendu-Pal&layout=compact&theme=default" alt="Top languages used by Surjendu Pal" />
+</p>
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/surjendu-pal-53b1a3318](https://www.linkedin.com/in/surjendu-pal-53b1a3318)
+- Portfolio: [surjendu-github-io.vercel.app](https://surjendu-github-io.vercel.app)
+- Email: [surjendupal2024@gmail.com](mailto:surjendupal2024@gmail.com)
+
 ---
 
-## 🌍 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/surjendu-pal-53b1a3318?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio: surjenduzone.com
-- Email: surjendupal2024@gmail.com
-
----
-
-> “Build things that people trust.”
+> Build useful things, document them clearly, and keep improving one project at a time.
